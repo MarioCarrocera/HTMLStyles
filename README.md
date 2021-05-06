@@ -1,4 +1,4 @@
-How use OnTime backend to store and setup google fonts in html
+How use OnTime backend to store and setup css styles
 
 The OnTime framework is designed to be modular, scalable and comprehensive, so that each new feature integrates without difficulty and maintains a unique class definition (OnTime) and all "additional classes" are "trait" that enrich it, in such a way that an integrated system is obtained, not separate programs which do not necessarily have to behave correctly together.
 
